@@ -1,6 +1,7 @@
 {
   "name": "@ngx-translate/core",
   "description": "The internationalization (i18n) library for Angular",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "ng build",
